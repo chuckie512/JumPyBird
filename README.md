@@ -1,4 +1,4 @@
-#JumPyBird
+# JumPyBird
 
 A flappy bird implentation using jumping as the input!
 
